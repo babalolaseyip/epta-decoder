@@ -4,13 +4,13 @@ Reference implementation of the Extended Parity-Check Transformation Algorithm (
 
 ## Features
 
-- ✅ Pure Python reference implementation
-- ✅ Exact (7,3) cyclic code example from paper
-- ✅ BER simulation and plotting tools
-- ✅ Unit tests with pytest
-- ✅ CI/CD with GitHub Actions
-- ✅ C++/Cython acceleration skeletons
-- ✅ Packaging for PyPI
+- Pure Python reference implementation
+- Exact (7,3) cyclic code example from paper
+- BER simulation and plotting tools
+- Unit tests with pytest
+- CI/CD with GitHub Actions
+- C++/Cython acceleration skeletons
+- Packaging for PyPI
 
 ## Installation
 
