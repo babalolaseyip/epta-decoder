@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "EPTA Decoder — Extended Parity-Check Transformation Algorithm"
+version: "0.1.0"
+doi: "10.5281/zenodo.XXXXXXX"
+authors:
+  - family-names: "Babalola"
+    given-names: "Oluwaseyi Paul"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Versfeld"
+    given-names: "Jaco"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-11-13
+url: "https://github.com/babalolaseyip/epta-decoder"
+license: "MIT"
+keywords:
+  - error-correction
+  - iterative-decoding
+  - cyclic-codes
+  - EPTA
+  - soft-decision-decoding
+repository-code: "https://github.com/babalolaseyip/epta-decoder"
